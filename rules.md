@@ -200,7 +200,13 @@ Martin must meet the following conditions to bring the game to a conclusion in h
 3. All Oldaskan and Sarl Nobles
 4. 8 Towns or Villages
 
-#Units
+##BattleBattles are fought when two units from opposing sides come into contact with each other in a single territory while at war. Battles are fought over a max of three combat rounds. Each unit has one combat turn per round. In its turn, a unit may either attack or retreat. The sequence of the turns coresponds with the unit’s combat rating. **A** blocks go before **B** blocks, followed by **C** and **D**. Defending blocks of each rating roll first.
+###Resolving AttacksTo resolve a block’s attack, roll as many dice as the unit’s current strength. A hit is scored for each roll equal to or lower than the unit’s combat rating.
+###RetreatsEach unit may retreat in its combat turn instead of attacking. If a unit cannot retreat it must stay and fight. Units retreat by moving up to their full movement allowance into friendly or neutral territory.
+##Sieges
+Sieges take place in a single round each month. Both sides roll for each unit involved. If the sieging units are successfull, they either take ownership of the territory, raze the territory degrading it or destroying it in that process, or looting the territory. Looting the territory gives the character Resources equal to double the total Taxation value of the territory, but the territory remains in the hands of the original owner.
+
+##Units
 
 1. **Tarathan Knights (4)** - Cost [4R], Upkeep [2R], Rating [A3], Movement [2], Strength [4] *When more than one Tarathan Knight Unit is working together, gain a +1 for each unit*
 - **Oldaskan Knights (8)** - Cost [4R], Upkeep [2R], Rating [A2], Movement [3], Strength [4] *Oldaskan Knights may elect to follow a retreating unit to engage in a 4th round of battle*
@@ -215,7 +221,7 @@ Martin must meet the following conditions to bring the game to a conclusion in h
 - **Sarl Infantry (10)** - Cost [0], Upkeep [0], Rating [B1], Movement [2], Strength [4] *Sarl Infantry ignore movement modifiers from the Deep Woods and Mountains*
 - **Sarl Calvary (10)** - Cost [0], Upkeep [0], Rating [B2], Movement [3], Strength [4] *When facing Conscripts and Infantry, Sarl Calvary roll twice for their first attack roll*
 
-##Total Number of Units By Territory
+###Total Number of Units Available By Territory
 | Name | Type | Knights/Calvary | Infantry/Pike | Conscripts |
 | ------- | --------- | ---------- | --------- | --------- |
 | Hazeeve | Tarathan Church | 1 | 1 | 0|

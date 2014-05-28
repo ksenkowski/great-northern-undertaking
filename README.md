@@ -11,6 +11,6 @@ Anything with a link below is in some stage of completion. By the end of March 2
 - **Events Deck:** PDF for print and play purposes
 - **Months Deck:** PDF for print and play purposes
 - **Colonization Deck:** PDF for print and play purposes
-- **Influence Deck:** PDF for print and play purposes
+- **[Influence Deck:](influence-cards.pdf)** PDF for print and play purposes
 - **Infrastructure Deck:** PDF for print and play purposes
 - **Unit Stickers:** PDF for print and play purposes
